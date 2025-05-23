@@ -1,6 +1,6 @@
 # OS_Project
-Operating Systems Project – Ain Shams University (Spring 2025)
-Team-based Kernel-Level Development | C Language | Memory Management
+Operating Systems Project 
+ Kernel-Level Development | C Language | Memory Management
 
 Designed and implemented advanced memory management features in a custom educational operating system (FOS), simulating virtual memory techniques found in modern OSs. Key contributions include:
 
